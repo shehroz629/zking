@@ -1,0 +1,133 @@
+.container{
+	width: 1200px;
+	margin: 0 auto;
+}
+header{
+	margin-bottom: 24px;
+	margin-top: 40px;
+}
+.logo{
+	float: left; 
+}
+nav{
+	float: right;
+}
+nav ul li{
+	display: inline-block;
+	margin-left: 100px;
+	font-family: arial;
+	font-size: 20px;
+	color: #202020;
+}
+section{
+
+}
+section h1{
+	margin-top: 100px;
+	text-align: center;
+	font-family: arial;
+	font-size: 30px;
+	font-weight: bold;
+}
+section p{
+	font-size: 12px;
+	text-align: center;
+	margin-top: 24px;
+	font-family: arial;
+	color: #606060;
+}
+.slider img{
+	width: 100%;
+}
+section p{
+	font-family: arial;
+	font-size: 18px;
+	margin-bottom: 102px;
+	margin-top: 41px;
+}
+section h1{
+
+	font-weight: bold;
+}
+.col-1{
+	width: 365px;
+	float: left;
+	margin-right: 60px;
+}
+.col-2{
+	width: 365px;
+	float: left;
+}
+.col-3{
+	width: 365px;
+	float: right;
+}
+.col-1 img{
+	margin-bottom: 63px;
+}
+.col-2 img{
+	margin-bottom: 63px;
+}
+.col-3 img{
+	margin-bottom: 63px;
+}
+footer{
+	background-color: #252527;
+	margin-top: 100px;
+}
+footer p{
+	padding-top: 31px;
+	padding-bottom: 33px;
+	font-family: arial;
+	font-size: 18px;
+	color: #60604e;
+}
+footer p span{
+	float: right;
+}
+/***************contact start**********/
+.contact h2{
+	margin-bottom: 25px;
+	margin-top: 27px;
+	font-family: arial;
+	font-size: 30px;
+	font-weight: bold;
+}
+.contact img{
+	margin-bottom: 55px;
+}
+.contact-left{
+	float: left;
+	width: 530px; 
+}
+.contact-left p{
+	text-align: left; 
+	font-family: arial;
+	font-size: 14px;
+	margin-bottom: 27px; 
+	color: #606060;
+}
+.contact-right{
+	float: right;
+	width: 540px;
+}
+input{
+	margin-bottom: 22px;	
+	width: 540px;
+	height: 50px;
+	padding-left: 32px;
+}
+textarea{
+	width: 540px;
+	height: 180px;
+	padding-top: 18px;
+	padding-left: 32px;
+	margin-bottom: 23px;
+}
+button{
+	height: 50px;
+	width: 120px;
+	color: white;
+	background-color: #f44336;
+	border: none;
+}
